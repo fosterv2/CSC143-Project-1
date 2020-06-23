@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Date
+comment0.text=\r\n\ The\ class\ Date\ is\ a\ simple\ class\ that\ stores\ infromation\ about\ a\ date\ with\ month,\ day,\ and\ year.\r\n\r\n\ @author\ Valerie\ Foster\r\n\ @version\ 1/9/2018\r\n
+comment1.params=month\ day\ year
+comment1.target=Date(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Date\r\n\ \r\n\ @param\ \ \ month\ \ \ the\ date's\ month\ (PRECONDITION\ -\ the\ month\ must\ be\ in\ 1\ to\ 12)\r\n\ @param\ \ \ day\ \ \ \ \ the\ date's\ day\ (PRECONDITION\ -\ the\ day\ must\ be\ in\ 1\ to\ 31)\r\n\ @param\ \ \ year\ \ \ \ the\ dates's\ year\ (PRECONDITION\ -\ the\ year\ must\ be\ positive)\r\n
+comment2.params=
+comment2.target=int\ getMonth()
+comment2.text=\r\n\ An\ accessor\ -\ returns\ the\ date's\ month.\r\n
+comment3.params=
+comment3.target=int\ getDay()
+comment3.text=\r\n\ An\ accessor\ -\ returns\ the\ date's\ day.\r\n
+comment4.params=
+comment4.target=int\ getYear()
+comment4.text=\r\n\ An\ accessor\ -\ returns\ the\ date's\ year.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
